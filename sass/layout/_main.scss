@@ -1,0 +1,45 @@
+#hiring-presentation {
+  padding: 1rem;
+  width: 90%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#presentation-image {
+  padding: 1rem;
+  width: 80%;
+}
+
+#about,
+#what-we-want,
+#desirable {
+  margin: auto;
+  width: 90%;
+  display: block;
+  
+  text-align: justify;
+}
+
+#react-mention {
+  color: #536dfe;
+}
+
+#js-mention {
+  color: #f9a826;
+}
+
+#react-native-mention {
+  color: #00b0ff;
+}
+
+#node-mention {
+  color: #00bfa6;
+}
+
+#email-mention {
+  text-decoration: none;
+  color: $pink;
+}

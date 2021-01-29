@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:overlay">
+<circle cx="32" cy="32" r="32" fill="white"/>
+<circle cx="32" cy="32" r="32" stroke="white"/>
+</g>
+<path d="M32 42C37.5228 42 42 37.5228 42 32C42 26.4772 37.5228 22 32 22C26.4772 22 22 26.4772 22 32C22 37.5228 26.4772 42 32 42Z" stroke="#F50057" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 10V14" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 50V54" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.44 16.44L19.28 19.28" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.72 44.72L47.56 47.56" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10 32H14" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50 32H54" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.44 47.56L19.28 44.72" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.72 19.28L47.56 16.44" stroke="#F50057" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,43 @@
+
+@media (min-width: 1000px) {
+  #page-header {
+    align-items: center;
+    justify-content: center;
+  }
+
+  #change-theme {
+    margin-right: 0.8rem;
+    
+    position: absolute;
+    top: 0.6rem;
+    right: 0;
+
+    img {
+      width: 64;
+      height: 64;
+    }
+  }
+
+  .container {
+    flex-direction: row;
+  }
+
+  #hiring-presentation {
+    width: 50%;
+
+    h2 {
+      font-size: 3rem;
+    }
+
+    #presentation-image {
+      width: 100%;
+    }
+  }
+
+  #agency-info {
+    width: 60%;
+
+    display: flex;
+    flex-direction: column;
+  }
+}
