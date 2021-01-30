@@ -6,6 +6,10 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+
+  h2 {
+    font-size: 3rem;
+  }
 }
 
 #presentation-image {
@@ -19,7 +23,6 @@
   margin: auto;
   width: 90%;
   display: block;
-  
   text-align: justify;
 }
 
