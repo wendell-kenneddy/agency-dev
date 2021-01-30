@@ -1,0 +1,21 @@
+body.dark-mode {
+  background-color: $dark-mode-primary;
+
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 300;
+
+  img {
+    filter: brightness(0.8) contrast(1.2);
+  }
+
+  #page-header,
+  #page-footer {
+    background-color: $dark-mode-secondary;
+  }
+
+  .container {
+    background-color: $dark-mode-primary;
+
+    color: $white;
+  }
+}
